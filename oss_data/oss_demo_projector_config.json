@@ -1,11 +1,11 @@
 {
   "embeddings": [
     {
-      "tensorName": "Pan Śmieciarz 27K",
+      "tensorName": "Original 27K",
       "tensorShape": [27049, 300],
       "tensorPath": "oss_data/w2v_27049_300d_tensors.bytes",
       "metadataPath": "oss_data/w2v_27049_300d_tensors.tsv"
     }
   ],
-  "modelCheckpointPath": "Demo datasets"
+  "modelCheckpointPath": "Pan Śmieciarz Nov'19"
 }
