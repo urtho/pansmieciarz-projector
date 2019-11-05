@@ -2,9 +2,9 @@
   "embeddings": [
     {
       "tensorName": "Frequent Lemma 4K",
-      "tensorShape": [4166, 300],
-      "tensorPath": "oss_data/lem_4166_300d_tensors.bytes",
-      "metadataPath": "oss_data/lem_4166_300d_tensors.tsv"
+      "tensorShape": [4115, 300],
+      "tensorPath": "oss_data/lem_4115_300d_tensors.bytes",
+      "metadataPath": "oss_data/lem_4115_300d_tensors.tsv"
     },
     {
       "tensorName": "Lemmatized 12K",
