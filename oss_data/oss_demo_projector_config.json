@@ -1,16 +1,22 @@
 {
   "embeddings": [
     {
-      "tensorName": "Original 27K",
-      "tensorShape": [27049, 300],
-      "tensorPath": "oss_data/w2v_27049_300d_tensors.bytes",
-      "metadataPath": "oss_data/w2v_27049_300d_tensors.tsv"
+      "tensorName": "Frequent Lemma 4K",
+      "tensorShape": [4166, 300],
+      "tensorPath": "oss_data/lem_4166_300d_tensors.bytes",
+      "metadataPath": "oss_data/lem_4166_300d_tensors.tsv"
     },
     {
       "tensorName": "Lemmatized 12K",
       "tensorShape": [12872, 300],
       "tensorPath": "oss_data/lem_12872_300d_tensors.bytes",
       "metadataPath": "oss_data/lem_12872_300d_tensors.tsv"
+    },
+    {
+      "tensorName": "Original 27K",
+      "tensorShape": [27049, 300],
+      "tensorPath": "oss_data/w2v_27049_300d_tensors.bytes",
+      "metadataPath": "oss_data/w2v_27049_300d_tensors.tsv"
     }
   ],
   "modelCheckpointPath": "Pan Śmieciarz Nov'19"
